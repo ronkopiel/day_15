@@ -1,0 +1,12 @@
+/* #greeting {
+    transition: transform 1s;
+    display: inline-block;
+  }
+  
+  #greeting.spin {
+    transform: rotate(360deg);
+  } */
+  .completed {
+    text-decoration: line-through;
+  }
+  
